@@ -22,7 +22,7 @@ function App() {
               <Mail className="mr-2 h-4 w-4" /> artur.wiseman@proton.me
             </Button>
           </a>
-          <a href="">
+          <a href="https://amethyst-node-d29.notion.site/Artur-Shirokov-56f2b434c3de4a5ea60bf87d8461d7bd">
             <Button>
               <File className="mr-2 h-4 w-4" /> Download CV
             </Button>
