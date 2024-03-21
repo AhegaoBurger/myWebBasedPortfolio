@@ -11,7 +11,7 @@ function App() {
     <>
       <div className='min-h-full flex flex-col items-center justify-center'>
         <Avatar className='size-60 m-8 top-2'>
-            <AvatarImage src="https://github.com/shadcn.png" />
+            <AvatarImage src="/me.jpg" />
             <AvatarFallback>CN</AvatarFallback>
           </Avatar>
         <h1 className="scroll-m-20 text-4xl font-medium tracking-tight lg:text-5xl">Artur Shirokov</h1>
